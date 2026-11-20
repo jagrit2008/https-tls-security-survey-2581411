@@ -43,3 +43,6 @@ Copy this repository's actual HTTPS URL from the GitHub browser address bar into
 - [ ] Confirm every P01–P25 mapping and IEEE in-text citation number.
 - [ ] Complete academic integrity and AI-use declaration in the annexure.
 - [ ] Commit final `.docx`/`.pdf` paper only if your instructor requests them in this repository.
+## Retrospective search verification — 21 November 2026
+
+A follow-up verification search was logged after corpus selection. See [`retrospective_search_log.csv`](retrospective_search_log.csv) for six exact queries and [`retrospective_search_evidence.md`](retrospective_search_evidence.md) for 18 individually inspected result previews, source links and explanations. **Full academic-database hit totals were not exposed and the original selection counts cannot be retroactively reconstructed.** The older `search_log.xlsx` remains the original unfilled search-log template; the updated retrospective workbook is available separately for manual upload.
