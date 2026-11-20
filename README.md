@@ -5,17 +5,18 @@
 **Author:** Jagrit Ahuja  
 **URN:** 2581411  
 **Literature corpus:** 25 distinct research publications (2022–2026)  
-**Submission:** 24 November 2026
+**Target submission date:** 24 November 2026
 
-## Repository contents
+## Repository files
 
 | File | Purpose |
 | --- | --- |
-| `literature_matrix.xlsx` | 25 included publications with categories, findings, methods, limitations, source URLs and student verification fields |
-| `literature_matrix.csv` | Readable GitHub preview of the same included-study matrix |
-| `references.bib` | BibTeX export for the 25 included publications, keyed P01–P25 |
-| `search_log.xlsx` | Source-search template for **actual** queries, dates, hit counts and screening decisions |
-| `figures/` | Taxonomy and publication-year trend figures, as used in the manuscript |
+| [`literature_matrix.xlsx`](literature_matrix.xlsx) | Matrix of the 25 included works, with categories, methods, findings, limitations, source links, and reading/verification fields |
+| [`references.bib`](references.bib) | Draft BibTeX records for the 25 works, keyed P01–P25 |
+| [`https_tls_search_log_formal_annexure_2026-11-21.xlsx`](https_tls_search_log_formal_annexure_2026-11-21.xlsx) | Formatted search-log workbook, 6 retrospective verification searches, result previews, methodology tables, and annexure notes |
+| [`retrospective_search_evidence.md`](retrospective_search_evidence.md) | Supporting search-query audit trail and result links |
+| [`taxonomy_fig2.png`](taxonomy_fig2.png) | Taxonomy figure from the review |
+| [`publication_trends_fig3.png`](publication_trends_fig3.png) | Publication-year trend chart based on the selected corpus |
 
 ## Review classification
 
@@ -24,25 +25,18 @@
 - **C — Encrypted Traffic Analysis and Privacy:** 4 papers
 - **D — Deployment, Performance, and Emerging TLS:** 4 papers
 
-## Evidence and academic-integrity notes
+## For Annexure A
 
-1. The 25 works were **examined through an AI-assisted literature workflow**. This repository does not automatically establish that the student has personally read every source. The `Student read?` column in the matrix begins with `Not confirmed`; update it only after personally reading and verifying the paper.
-2. Original search-engine/database hit counts and all screening decisions were not systematically retained. Consequently, `search_log.xlsx` is a **blank, honest logging template**, not a reconstructed search history. Never claim fabricated search counts or backdate searches.
-3. `references.bib` is a starter export derived from the source PDFs. Verify each reference and align IEEE numbering with the order cited in the paper before submission.
-4. The manuscript should disclose its actual AI-assistance workflow and how source claims were verified.
-5. The full published PDFs are **not** uploaded here because hosting copyrighted articles may require permission. Use the official DOI, publisher and repository links in the matrix.
+- **Repository URL:** https://github.com/jagrit2008/https-tls-security-survey-2581411
+- **Literature matrix:** `literature_matrix.xlsx`
+- **Reference library export:** `references.bib`
+- **Search log:** `https_tls_search_log_formal_annexure_2026-11-21.xlsx`
+- **Works included in survey:** 25 distinct publications
 
-## How to attach this repository to the annexure
+## Research-evidence qualifications
 
-Copy this repository's actual HTTPS URL from the GitHub browser address bar into the annexure field **Repository URL**. The manuscript's evidence appendix should list the filenames above, included-work count (25), and any available genuine search/screening counts.
+The 25-paper corpus was assembled with AI assistance. Inclusion in the matrix does **not** establish that the student personally read and verified every publication. Update reading and citation-verification fields only after checking each source.
 
-## Maintenance before submission
+Six **retrospective** searches dated 21 November 2026 were documented **after** initial selection of the literature corpus. They produced 18 inspected result previews, not original screening counts. Full database hit totals were unavailable, and historical works-identified and screened counts were not systematically retained. Do not invent or backfill those numbers. Details and linked evidence are preserved in the workbook and `retrospective_search_evidence.md`.
 
-- [ ] Read and verify each paper; update the matrix's `Student read?` and `Citation verified?` fields.
-- [ ] Run and log verifiable searches, retaining real results and counts; update selection flow diagram accordingly.
-- [ ] Confirm every P01–P25 mapping and IEEE in-text citation number.
-- [ ] Complete academic integrity and AI-use declaration in the annexure.
-- [ ] Commit final `.docx`/`.pdf` paper only if your instructor requests them in this repository.
-## Retrospective search verification — 21 November 2026
-
-A follow-up verification search was logged after corpus selection. See [`retrospective_search_log.csv`](retrospective_search_log.csv) for six exact queries and [`retrospective_search_evidence.md`](retrospective_search_evidence.md) for 18 individually inspected result previews, source links and explanations. **Full academic-database hit totals were not exposed and the original selection counts cannot be retroactively reconstructed.** The older `search_log.xlsx` remains the original unfilled search-log template; the updated retrospective workbook is available separately for manual upload.
+Check bibliography metadata and in-text IEEE numbering before final submission. Published article PDFs are not rehosted here; use the source URLs in the literature matrix.
