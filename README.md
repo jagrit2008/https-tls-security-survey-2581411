@@ -13,7 +13,7 @@
 | --- | --- |
 | [`literature_matrix.xlsx`](literature_matrix.xlsx) | Matrix of the 25 included works, with categories, methods, findings, limitations, source links, and reading/verification fields |
 | [`references.bib`](references.bib) | Draft BibTeX records for the 25 works, keyed P01–P25 |
-| [`https_tls_search_log_formal_annexure_2026-11-21.xlsx`](https_tls_search_log_formal_annexure_2026-11-21.xlsx) | Formatted search-log workbook, 6 retrospective verification searches, result previews, methodology tables, and annexure notes |
+| [`https_tls_screening_log_2026-11-21.xlsx`](https_tls_screening_log_2026-11-21.xlsx) | Screening status for 25 papers, six retrospective search queries, and evidence overview. AI-assisted preliminary work is distinct from personal reading confirmation. |
 | [`retrospective_search_evidence.md`](retrospective_search_evidence.md) | Supporting search-query audit trail and result links |
 | [`taxonomy_fig2.png`](taxonomy_fig2.png) | Taxonomy figure from the review |
 | [`publication_trends_fig3.png`](publication_trends_fig3.png) | Publication-year trend chart based on the selected corpus |
@@ -30,7 +30,7 @@
 - **Repository URL:** https://github.com/jagrit2008/https-tls-security-survey-2581411
 - **Literature matrix:** `literature_matrix.xlsx`
 - **Reference library export:** `references.bib`
-- **Search log:** `https_tls_search_log_formal_annexure_2026-11-21.xlsx`
+- **Search log:** `https_tls_screening_log_2026-11-21.xlsx`
 - **Works included in survey:** 25 distinct publications
 
 ## Research-evidence qualifications
