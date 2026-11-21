@@ -33,10 +33,16 @@
 - **Search log:** `https_tls_screening_log_2026-11-21.xlsx`
 - **Works included in survey:** 25 distinct publications
 
+## Screening reconciliation (21 November 2026)
+
+The author reports **37 identified − 8 duplicates = 29 screened; 29 − 4 excluded = 25 included**. These counts reconcile mathematically but the identities of the eight duplicate records and four original exclusions have not been recovered. See [screening reconciliation](screening_reconciliation_2026-11-21.md) and the [37-slot record audit](original_selection_audit_37_rows.csv). The six retrospective web searches are separate evidence and must not be presented as the original selection records.
+
+The author has since **self-confirmed reading all 25 included papers**. Earlier worksheet fields indicating “not confirmed” reflect their older state and are not updated by this README clarification. This self-confirmation does not independently establish reference metadata accuracy.
+
 ## Research-evidence qualifications
 
 The 25-paper corpus was assembled. Inclusion in the matrix establishes that the student personally read and verified every publication. Update reading and citation-verification fields only after checking each source.
 
-Six **retrospective** searches dated 21 November 2026 were documented **after** initial selection of the literature corpus. They produced 18 inspected result previews, not original screening counts. Full database hit totals were unavailable, and historical works-identified and screened counts were not systematically retained. Do not invent or backfill those numbers. Details and linked evidence are preserved in the workbook and `retrospective_search_evidence.md`.
+Six **retrospective** searches dated 21 November 2026 were documented **after** initial selection of the literature corpus. They produced 18 inspected result previews, not original screening counts. Full database hit totals were unavailable. Later author-reported selection counts are provided in the reconciliation note; original record-level search evidence is still missing. Do not invent record identities. Details and linked evidence are preserved in the workbook and `retrospective_search_evidence.md`.
 
 Check bibliography metadata and in-text IEEE numbering before final submission. Published article PDFs are not rehosted here; use the source URLs in the literature matrix.
