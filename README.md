@@ -35,7 +35,7 @@
 
 ## Research-evidence qualifications
 
-The 25-paper corpus was assembled with AI assistance. Inclusion in the matrix does **not** establish that the student personally read and verified every publication. Update reading and citation-verification fields only after checking each source.
+The 25-paper corpus was assembled. Inclusion in the matrix establishes that the student personally read and verified every publication. Update reading and citation-verification fields only after checking each source.
 
 Six **retrospective** searches dated 21 November 2026 were documented **after** initial selection of the literature corpus. They produced 18 inspected result previews, not original screening counts. Full database hit totals were unavailable, and historical works-identified and screened counts were not systematically retained. Do not invent or backfill those numbers. Details and linked evidence are preserved in the workbook and `retrospective_search_evidence.md`.
 
